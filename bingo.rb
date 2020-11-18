@@ -1,2 +1,4 @@
-array = ["perl", "ruby", "python", "swift", "apple" ,"orange" ,"cube" ,"sql" ,"cloud" ,"beef" ,"wine" ,"gin" ,"vodka", "chicken" ,"pork" ,"seafood"]
-puts array.shuffle
+
+
+array = ["beer", "wine", "gin", "vodka", "beef" ,"chicken" ,"pork" ,"seafood" ,"ant" ,"bee" ,"ladybug" ,"beetle" ,"bear" , "snake" ,"dog" ,"camel"].shuffle
+puts array[0..8]
